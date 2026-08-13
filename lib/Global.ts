@@ -12,7 +12,7 @@ public LastName :string = 'Gangathade';
 public FirstName :string = 'Abhijit';
 public MiddleName :string = 'Balaji';
 public NickName :string = 'Abhi';
-public filepath:string = "D:\\TestAutomation\\Playwright\\HRMS\\2023-06-23.png";
+public filepath:string = "D:\\TestAutomation\\Playwright\\Workspace\\77Batch_Hybrid\\2023-06-23.png";
 
 
 //**************************objects*****************************//
