@@ -1,6 +1,6 @@
 import { test } from "@playwright/test";
 import { general } from "../lib/General";
-test("@Smoke_Login and Logout", async({page})=>{
+test("Login and Logout", async({page})=>{
 
    let object = new general(page);
 

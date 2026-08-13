@@ -1,6 +1,6 @@
 import { test } from "@playwright/test";
 import { general } from "../lib/General";
-test("@regression_Add Employee test", async({page})=>{
+test("Add Employee test", async({page})=>{
 
    let object = new general(page);
 
