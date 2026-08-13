@@ -1,0 +1,5 @@
+application opened Successfully
+Login done succesffuly
+Add employee page loaded
+Employee added succesfully. you can edit or add more details now.
+Logout done succesfully
