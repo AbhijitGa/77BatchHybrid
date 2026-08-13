@@ -7,4 +7,5 @@ test("Login and Logout", async({page})=>{
    await object.openApplication();
    await object.login();
    await object.logout();
+   console.log("Executed");
 });
