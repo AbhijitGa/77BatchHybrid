@@ -31,7 +31,7 @@ export class general extends global {
         await frame.locator(this.firstname).fill(this.FirstName);
         await frame.locator(this.middlename).fill(this.MiddleName);
         await frame.locator(this.nickname).fill(this.NickName);
-        await frame.locator(this.firly).setInputFiles(this.filepath);
+        //await frame.locator(this.firly).setInputFiles(this.filepath);
         await frame.locator(this.save).click();
         await this.page.waitForTimeout(3000);
         //await expect(frame.locator(this.titlepersonaldetail)).toHaveText('Personal Details');
